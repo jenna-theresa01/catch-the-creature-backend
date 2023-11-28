@@ -7,15 +7,5 @@
     "python.terminal.activateEnvironment": false,
     "python.terminal.activateEnvInCurrentTerminal": false,
     "python.defaultInterpreterPath": "/workspace/.venv/python/bin/python",
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "driver": "PostgreSQL",
-            "name": "default",
-            "database": "postgres",
-            "username": "postgres"
-        }
-    ]
+    "sqltools.connections": []
 }
